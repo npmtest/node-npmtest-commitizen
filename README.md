@@ -1,6 +1,6 @@
 # npmtest-commitizen
 
-#### test coverage for  [commitizen (v2.9.6)](https://github.com/commitizen/cz-cli)  [![npm package](https://img.shields.io/npm/v/npmtest-commitizen.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-commitizen) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-commitizen.svg)](https://travis-ci.org/npmtest/node-npmtest-commitizen)
+#### basic test coverage for  [commitizen (v2.9.6)](https://github.com/commitizen/cz-cli)  [![npm package](https://img.shields.io/npm/v/npmtest-commitizen.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-commitizen) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-commitizen.svg)](https://travis-ci.org/npmtest/node-npmtest-commitizen)
 
 #### Git commit, but play nice with conventions.
 
